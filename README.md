@@ -14,11 +14,11 @@ I'm Samidha, a passionate learner diving into the world of data science. Welcome
 - **Database:** SQL
 - **Version Control:** GitHub
 
-### 🛠️ Projects
+### 🛠️ Projects 
 
 Here are some projects I'm currently working on or have completed:
-
 - [Project 1: Movie web scrapping using python and link](https://github.com/SamidhaTandel/themoviedb_WebScrapping_Project.git)
+- [Project 2: Sql_Inventory_System and link](https://github.com/SamidhaTandel/Sql_Inventory_System.git)
 
 
 
