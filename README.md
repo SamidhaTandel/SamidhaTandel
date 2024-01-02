@@ -18,8 +18,9 @@ I'm Samidha, a passionate learner diving into the world of data science. Welcome
 
 Here are some projects I'm currently working on or have completed:
 
-- [Project 1: Brief description and link](https://github.com/your_username/project-1)
-- [Project 2: Brief description and link](https://github.com/your_username/project-2)
+- [Project 1: Movie web scrapping using python and link](https://github.com/SamidhaTandel/themoviedb_WebScrapping_Project.git)
+
+
 
 
 ## 📫 Let's Connect!
