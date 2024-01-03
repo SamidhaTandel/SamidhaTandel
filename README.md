@@ -25,5 +25,4 @@ Here are some projects I'm currently working on or have completed:
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/samidha-tandel-636749144/)
-
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-samidhatandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samidha-tandel-636749144/)](https://www.linkedin.com/in/samidha-tandel-636749144/)
