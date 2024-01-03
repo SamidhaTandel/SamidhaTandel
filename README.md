@@ -3,21 +3,23 @@
 I'm Samidha, a passionate learner diving into the world of data science. Welcome to my GitHub profile!
 
 ### 🌱 Currently Learning
-- 🐍 Python
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python
 - 📊 Data Analysis and Visualization
-- 📈 Sql
+- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> Sql
 
 ### 🚀 Skills
 
-- **Languages:** Python, SQL
+- **Languages:**
+         Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+        , SQL <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 - **Tools/Frameworks:** Pandas, NumPy,Jupyter Notebooks
-- **Database:** SQL
-- **Version Control:** GitHub
+- **Database:** SQL <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+- **Version Control:** GitHub <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### 🛠️ Projects 
 
 Here are some projects I'm currently working on or have completed:
-- [Project 1: Movie web scrapping using python and link](https://github.com/SamidhaTandel/themoviedb_WebScrapping_Project.git)
+- [Project 1: Movie web scrapping using Python and link](https://github.com/SamidhaTandel/themoviedb_WebScrapping_Project.git)
 - [Project 2: Sql_Inventory_System and link](https://github.com/SamidhaTandel/Sql_Inventory_System.git)
 
 
