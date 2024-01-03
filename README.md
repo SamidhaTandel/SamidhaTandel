@@ -16,7 +16,7 @@ I'm Samidha, a passionate learner diving into the world of data science. Welcome
 - **Database:** SQL <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 - **Version Control:** GitHub <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-#### 🛠️ Projects 
+### 🛠️ Projects 
 
 Here are some projects I'm currently working on or have completed:
 - [Project 1: Movie web scrapping using Python and link](https://github.com/SamidhaTandel/themoviedb_WebScrapping_Project.git)
