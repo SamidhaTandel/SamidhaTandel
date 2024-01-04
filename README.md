@@ -22,9 +22,11 @@ Here are some projects I'm currently working on or have completed:
 - [Project 1: Movie web scrapping using Python and link](https://github.com/SamidhaTandel/themoviedb_WebScrapping_Project.git)
 - [Project 2: Sql_Inventory_System and link](https://github.com/SamidhaTandel/Sql_Inventory_System.git)
 
+### 📃 Certification
+- #### <img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" height="25"/></a>[Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/f78ce0a4-fba9-4a7e-9233-86b4fa72ba6d)
 
 
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-samidhatandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samidha-tandel-636749144/)](https://www.linkedin.com/in/samidha-tandel-636749144/)
